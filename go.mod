@@ -12,7 +12,7 @@ require (
 	github.com/BurntSushi/toml v0.3.1
 	github.com/DataDog/datadog-go v0.0.0-20180822151419-281ae9f2d895 // indirect
 	github.com/DataDog/opencensus-go-exporter-datadog v0.0.0-20180917103902-e6c7f767dc57
-	github.com/aws/aws-sdk-go v1.15.24
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/bsm/redis-lock v8.0.0+incompatible
 	github.com/codegangsta/negroni v1.0.0 // indirect
 	github.com/fatih/color v1.7.0
@@ -35,7 +35,7 @@ require (
 	github.com/philhofer/fwd v1.0.0 // indirect
 	github.com/sirupsen/logrus v1.4.2
 	github.com/spf13/afero v1.1.2
-	github.com/stretchr/testify v1.3.0
+	github.com/stretchr/testify v1.5.1
 	github.com/technosophos/moniker v0.0.0-20180509230615-a5dbd03a2245
 	github.com/tidwall/pretty v0.0.0-20180105212114-65a9db5fad51 // indirect
 	github.com/tinylib/msgp v1.0.2 // indirect
